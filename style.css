@@ -1,0 +1,4 @@
+body{background-color: brown;border: solid; border-width: 2cm; border-color: coral; }
+.css{background-color: darkgreen; border-color: darkmagenta; border-width: 1cm; display:flex;flex-wrap: wrap;-ms-flex-item-align: stretch;}
+.css2{background-color: darkorange;border: solid;border-color: deeppink; border-width: 2cm; }
+.css3{background-color: forestgreen;border: solid;border-width: 2cm;border-color: greenyellow;display: flex;justify-content:space-evenly;}
